@@ -1,0 +1,4 @@
+1,conference ,lahore,12-03-2025,VIP:30.00:77
+2,conference,lahore,12-12-1990,Student:30.00:30,VIP:500.00:37
+3,expo ,expo center lahore,12-02-2025,VIP:123.00:100,normal:130.00:20
+4,convocation,auditorium,10-02-2025,Student:0.00:43

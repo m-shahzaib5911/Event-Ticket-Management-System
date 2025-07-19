@@ -1,0 +1,7 @@
+1,1,1,30,900.00,Cancelled,VIP
+2,2,1,23,690.00,Confirmed,VIP
+3,1,2,5,150.00,Cancelled,Student
+4,1,1,35,1050.00,Cancelled,VIP
+5,5,2,3,1500.00,Confirmed,VIP
+6,7,4,1,0.00,Confirmed,Student
+7,10,4,56,0.00,Confirmed,Student
